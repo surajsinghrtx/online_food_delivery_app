@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Artisanal Food Ordering",
+  "description": "Artisanal culinary kitchen and online food ordering platform featuring live customization, real-time kitchen tracking, and fast delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
